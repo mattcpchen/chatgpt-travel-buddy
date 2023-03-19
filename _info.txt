@@ -12,6 +12,6 @@ https://www.codingthesmartway.com/how-to-use-chatgpt-with-react/
 
 
 ## OpenAi Stuffs
-apiKey: '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'
+apiKey: 'API_KEY_CANNOT_SHARE_ON_GITHUB'
 organization name: mattcpchen.com
 Organization ID: org-m9yPONBIoGNVPwFxC8FJpgv8

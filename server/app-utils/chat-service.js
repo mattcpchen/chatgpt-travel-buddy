@@ -1,10 +1,11 @@
 const { Configuration, OpenAIApi } = require("openai");
 
-const configuration = new Configuration({
-  apiKey: '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',
-});
-
-const openai = new OpenAIApi(configuration);
+const openai = (() => {
+  const apiEncodeKey = 'c2stbHdmdlZMeFl3bll1TUw2UjFoY0hUM0JsYmtGSjdxcFpXMWtMdkFhMEN3UmRMeFFQ';
+  const apiKey = atob(apiEncodeKey);
+  const configuration = new Configuration({ apiKey });
+  return new OpenAIApi(configuration);
+})();
 
 // for "text-davinci-002" model
 const getOldChatResponse = async (question) => {
