@@ -1,0 +1,17 @@
+## Reference
+
+## React + Webpack + Node
+https://kedar9.medium.com/creating-a-node-app-with-react-webpack-4-babel-7-express-and-sass-8ff8d23b5fcb
+
+## React + Webpack
+https://jsramblings.com/creating-a-react-app-with-webpack/
+
+
+## Open Ai
+https://www.codingthesmartway.com/how-to-use-chatgpt-with-react/
+
+
+## OpenAi Stuffs
+apiKey: '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'
+organization name: mattcpchen.com
+Organization ID: org-m9yPONBIoGNVPwFxC8FJpgv8
