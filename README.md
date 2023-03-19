@@ -7,7 +7,7 @@ Use Zomato's restaurant API and Google's TensorFlow to build a simple restaurant
 [Heroku Demo](https://chatgpt-travel-buddy.herokuapp.com/) can be found here.
 
 ### Sneak peak:
-![Screenshot_01](/public/assets/readme_01.jpg?raw=true | width=500)
+![Screenshot_01](/public/assets/readme_01.jpg | width=500)
 
 ### Getting Started:
 <ul>
