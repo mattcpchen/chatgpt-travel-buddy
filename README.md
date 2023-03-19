@@ -1,7 +1,7 @@
 ## ChatGPT-Travel-Buddy
 
 ### Summary:
-Use Zomato's restaurant API and Google's TensorFlow to build a simple restaurant app. Tensorflow is used to analyze users' reviews which will be combined with the Zomato's exisitng user rating. The goal of this project is to utilize machine learninig to build a more trustworthy recommendation system.
+ChatGPT-travel-buddy is a travel chatbot which uses ChatGPT API and geolocation API to provide personalized travel recommendations. Users share their location, and the app uses natural language processing to understand their needs and offer nearby suggestions for attractions, restaurants, and accommodations.
 
 ### Demo:
 [Heroku Demo](https://chatgpt-travel-buddy.herokuapp.com/) can be found here.
