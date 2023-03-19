@@ -4,10 +4,10 @@
 Use Zomato's restaurant API and Google's TensorFlow to build a simple restaurant app. Tensorflow is used to analyze users' reviews which will be combined with the Zomato's exisitng user rating. The goal of this project is to utilize machine learninig to build a more trustworthy recommendation system.
 
 ### Demo:
-[Heroku Demo](https://sentiment-analyse-my-dinner.herokuapp.com/) can be found here.
+[Heroku Demo](https://chatgpt-travel-buddy.herokuapp.com/) can be found here.
 
 ### Sneak peak:
-![Screenshot_01](/public/doc/readme_01.jpg?raw=true)
+![Screenshot_01](/public/assets/readme_01.jpg?raw=true)
 
 ### Getting Started:
 <ul>
